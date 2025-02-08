@@ -31,7 +31,7 @@
 
 ## 🌟 Featured Projects:
 
-🔹 [**starVE**](https://github.com/your_repo) - 🕰️ A fasting tracker app with real-time progress tracking and analytics.  
+🔹 [**LifeSync+**](https://github.com/your_repo) - 🕰️ Dashboard that seamlessly integrates all your life metrics into one centralized hub.  
 🔹 [**Fit Me**](https://github.com/your_repo) - 🏋️ Personalized fitness dashboard built with React & MongoDB.  
 🔹 [**Car Arbitrage Estimator**](https://github.com/your_repo) - 🚗 AI-powered estimator for used car sales profit analysis.  
 
