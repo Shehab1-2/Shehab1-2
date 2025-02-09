@@ -31,9 +31,9 @@
 
 ## 🌟 Featured Projects:
 
-🔹 [**LifeSync+**](https://github.com/your_repo) - 🕰️ Dashboard that seamlessly integrates all your life metrics into one centralized hub.  
-🔹 [**Fit Me**](https://github.com/your_repo) - 🏋️ Personalized fitness dashboard built with React & MongoDB.  
-🔹 [**Car Arbitrage Estimator**](https://github.com/your_repo) - 🚗 AI-powered estimator for used car sales profit analysis.  
+🔹 **LifeSync+** - 🕰️ Dashboard that seamlessly integrates all your life metrics into one centralized hub.  
+🔹 **Fit Me** - 🏋️ Personalized fitness dashboard built with React & MongoDB.  
+🔹 **Car Arbitrage Estimator** - 🚗 AI-powered estimator for used car sales profit analysis.  
 
 📌 *Check out my repos for more cool projects!* 👇  
 <p align="center">
