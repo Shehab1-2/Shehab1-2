@@ -1,7 +1,7 @@
 <!-- Header with Waving Hand -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Shehab Ahamed!
+  Hey, I'm Shehab Ahamed!
 </h1>
 
 <!-- Scrolling Carousel Effect with Animation -->
