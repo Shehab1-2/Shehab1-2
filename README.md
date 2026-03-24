@@ -7,7 +7,7 @@
 <!-- Scrolling Carousel Effect with Animation -->
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8">
-    🚀 Full-Stack Developer | 🏋️‍♂️ Fitness Enthusiast | 💡 Always Exploring Tech | 🌍 Passionate About Open Source | 🎯 Building LifeSync+ | 🚀 Learning Docker & Cloud | 🔍 Curious Mindset
+    🚀 SAAS Implemention & Developer  | 🏋️‍♂️ Fitness Enthusiast | 💡 Always Exploring Tech | 🌍 Passionate About Open Source |🔍 Curious Mindset
   </marquee>
 </p>
 
